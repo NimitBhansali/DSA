@@ -1,3 +1,3 @@
 <b>Merge Sort Technique-</b>
 <br><br>
-![not found](mergesort.png)
+![not found](mergesort.jpg)
